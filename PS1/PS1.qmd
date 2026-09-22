@@ -340,3 +340,5 @@ a\. 143 numbers are happy numbers
 b\. 14.3% numbers are happy numbers
 
 c\. 356 produces the longest happy sequence before terminating.
+
+**Github repository link:** <https://github.com/zixunzhang99/stats506>
